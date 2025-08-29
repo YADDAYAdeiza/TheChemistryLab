@@ -1,0 +1,18 @@
+# Unreal Project Files
+.DS_Store
+*.sln
+*.sdf
+*.suo
+*.user
+*.vssscc
+*.VC.db
+*.tlog
+*.log
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Custom Files
+*.blend
